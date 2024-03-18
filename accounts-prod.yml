@@ -2,7 +2,7 @@ build:
   version: "v1.0"
   
 contact:
-  message: "Account API PRODUCTION"
+  message: "Account API PRODUCTION 2"
   details:
     name: "Divier Casas"
     email: "diviercasas26@gmail.com"
