@@ -2,9 +2,9 @@ build:
   version: "v3.0"
   
 contact:
-  message: "Account API DEV"
+  message: "Account API DEVEVELOPMENT"
   details:
-    name: "Divier Casas"
+    name: "Divier Casas Poveda"
     email: "diviercasas26@gmail.com"
   phone-numbers:
     - "123"
